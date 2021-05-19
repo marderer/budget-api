@@ -14,7 +14,7 @@ gem 'grape-swagger-rails'
 gem 'grape_on_rails_routes'
 gem 'money-rails', '~>1.12'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 gem 'rack-cors'
 gem 'rails', '~> 6.0.0.beta3'
 gem 'rubocop', require: false
